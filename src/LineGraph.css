@@ -1,0 +1,10 @@
+.lineGraph {
+    flex: 1;
+}
+
+.lineGraph_graph {
+    flex: 1;
+    flex-direction: column;
+    display: flex;
+    height: 1000px;
+}
